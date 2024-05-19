@@ -1,4 +1,18 @@
 
 #in my case we have variety of works
-1. new Order 2. Track Order  3. Offers/Store Hours
+1. new Order :
+  ---place new Order
+  ---Support payment through a chatbot
+  
+2. Track Order :
+ ---Track order by order id
+ --- Track order by phone number 
+ --- Track order by customer
+
+3. Offers/Store Hours
+  ---Ongoing offers 
+  --- Upcoming offers
+  --- Stores hours
+
+  
 
