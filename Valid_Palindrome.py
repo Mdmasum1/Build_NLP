@@ -6,7 +6,7 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 
  
 '''
-#Implement main  function 
+
 
 def isPalindrome(self, s:str) -> bool:
     l, r = 0, len(s) - 1
