@@ -1,5 +1,9 @@
 
 #in my case we have variety of works
+
+***Backlog:(agile methodology, proejct Management, stakeholder Management)
+***Backlog is a popular term when it is come up with agile way
+
 1. new Order :
   ---place new Order
   ---Support payment through a chatbot
@@ -17,3 +21,21 @@
   
 ***This is import for the product build
 (Feasibility impact analysis)
+  -->Goal is to build high Feasibility and high impact of the product
+
+***Then discussion about MVP(minimum Viable Product) and its 
+features and you can use tools such as jira, notion, asana etc
+(those tools manage in Management project, backlog etc)
+--in this case of MVP , you can start with 
+--i)place new order
+--ii) Track order by order id 
+
+***Now think about Solution Design and Architecture when 
+--- you have a scope of a works(sow) clearly define so far that 
+***I want to build a chatbot put it on my website chatbot should 
+---support of those two features
+
+
+
+
+
