@@ -61,11 +61,21 @@ features and you can use tools such as jira, notion, asana etc
    --and much more. We will cover Dialogflow fundamentals such as 
    --intents, entities, context, etc.
 
+-
 1.First thing we define scope of work (SOW) 
 ---new order, track order, billing queries, store hours
 
+2.--Chatbot platform---
+  --for this we can use Dialogflow, or Rasa or Amazon Lex 
+  --Among of these , I prefer using Dialogflow due to this project suit 
+
+3.Dialogflow setup , Define intents, context & fulfillment
+  --intents: "new order", "order add", "order remove", "track order"
+  --fulfillment: Create a webhook that can connect to a backend to 
+  --create new order and track existing orders 
 
 
+  
 
 
 
