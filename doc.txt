@@ -37,5 +37,20 @@ features and you can use tools such as jira, notion, asana etc
 
 
 
+****prompt for chatbot build***
+" I have a fast food business for which I want to build a chatbot
+--that will place on my website. Through this chatbot a user will be 
+--able to place a food order.
+---How should I implement this ?Give me some suggestions along with tools
+--that I can use . I am looking for effective solution with very less 
+--learning curve.
+
+---I have a mysql database to save orders etc. I want to main 
+--features(1) .New Order (2) Track Order in my chatbot."
+
+
+
+
+
 
 
