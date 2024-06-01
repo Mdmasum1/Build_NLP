@@ -74,6 +74,25 @@ features and you can use tools such as jira, notion, asana etc
   --fulfillment: Create a webhook that can connect to a backend to 
   --create new order and track existing orders 
 
+4. Build Backend: A backend that is connedted to our answers database
+  --and framwork like Fastapi/Flask/Django/Node.js
+
+
+
+
+******As platform selection I choose dialogeflow for this poject 
+    ---which is more suitable in this solution because it offers
+    --powerful NLP capabilities out of the box.
+    --It relies Google's vast training database
+    --It gives cloud based solution
+    --Limited customized option but provides easy integrations
+    --with various platform and channels
+
+
+
+
+
+
 
   
 
