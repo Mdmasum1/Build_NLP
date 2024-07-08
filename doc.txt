@@ -92,6 +92,15 @@ features and you can use tools such as jira, notion, asana etc
 
 ###please go to this url
   ---https://cloud.google.com/dialogflow?hl=en
+  ---https://dialogflow.cloud.google.com/#/login
+
+  ---NB: Dialogflow ES would be a suitable choice for building 
+  ---a chatbot for online food delivery with two options: "New Order"
+  , Track Order" (Because cost, Agent Structure, Integration Channel, Basic Analysis is 
+  --- is better service)
+
+****The intent is a mapping between what the user says and the action
+  ---that will be taken by a chatbot.
 
 
 
