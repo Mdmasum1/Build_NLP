@@ -100,8 +100,33 @@ features and you can use tools such as jira, notion, asana etc
   --- is better service)
 
 ****The intent is a mapping between what the user says and the action
-  ---that will be taken by a chatbot.
+  ---that will be taken by a chatbot or your backend.
 
+  ==>Entities (when intent call in the backend then get 
+  the information throuh entities such three pizza'a which entities)
+
+  --Example: user: what would you like to order?
+            Bot: Hey, I want 2 (2 in entities) pav Bhaji and one pizza
+  
+  ---Micheal Bloomberge founded Bloomberge. here Micheal is person
+  ---entities and Bloomberge is a company entities .
+  ***Dialogflow uses some techniques using recognize some entities.
+
+   ***From the chat conversation you can extract two things
+      ---1. Entities nothing but the argument to the python function.
+       2.Intent (Intent is mapped to some python functions )
+       
+       ---Example: Bot: I want "new order" or "track order"?
+               user: Can you track my order" Intent : truck order 
+
+               def track_order(order_id, int):
+                   //implementation
+                track_order(9922)
+
+
+                 
+
+  
 
 
 
